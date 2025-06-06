@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋  I'm Bhavika Mandavkar!
 
-<!--
-**BhavikaDM/BhavikaDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science graduate passionate about solving real-world problems with code.  
+🧠 I’m currently exploring **Machine Learning**, **Data Science**, and **Web Development**.  
+💻 Languages & Tools I work with: `Python`, `Pandas`, `NumPy`, `HTML`, `CSS`, `Scikit-learn`, `Matplotlib`, `Seaborn`.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on machine learning and data science.
+- 🌱 I’m currently learning R language.
+- 📫 How to reach me: bhavikamandavkar111@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I write code that even future me won’t understand.
+  
